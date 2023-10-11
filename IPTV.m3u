@@ -90,6 +90,23 @@ https://live.metshop.top/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="大陆",贵州卫视
 https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="大陆",海南卫视
+https://live.metshop.top/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1 tvg-id="上海第一财*" tvg-name="上海第一财*" tvg-logo="https://epg.112114.xyz/logo/上海第一财*.png" group-title="上海",上海第一财*
+https://live.metshop.top/bestv.php?id=dycjhd8m/8000000
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="大陆",上视新闻
+https://live.metshop.top/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="大陆",上海都市
+https://live.metshop.top/bestv.php?id=dshd8m/8000000
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="大陆",上海纪实
+https://live.metshop.top/bestv.php?id=jspdhd/4000000
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="大陆",东方影视
+https://live.metshop.top/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="大陆",五星体育
+https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1 tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="大陆",上视外语
+https://live.metshop.top/bestv.php?id=icshd8m/8000000
+#EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="大陆",上海教育
+https://live.metshop.top/bestv.php?id=setvhd/8000000
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="港澳台",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
