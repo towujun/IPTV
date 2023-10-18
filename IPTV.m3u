@@ -129,6 +129,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg" group-title="英语新闻",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg",Bloomberg TV Asia (Live)
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554efc526e7.jpg",ChannelNewsAsia FHD
