@@ -17,8 +17,8 @@ var FindProxyForURL = function(init, profiles) {
         "use strict";
 
         if (/(?:^|\.)qq\.com$/.test(host)) return "+WebProxy";
-
-        if (/(?:^|\.)youtube\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)iqiyi\.com$/.test(host)) return "+WebProxy";
+        if (/(?:^|\.)youku\.com$/.test(host)) return "+WebProxy";
 
         return "DIRECT";
     },
