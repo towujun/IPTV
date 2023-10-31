@@ -12,7 +12,7 @@ var FindProxyForURL = function(init, profiles) {
     "+web-List": function(url, host, scheme) {
         "use strict";
 
-        if (/(?:^|\.)v\.qq\.com$/.test(host)) return "+WebProxy";
+        if (/(?:^|\.)qq\.com$/.test(host)) return "+WebProxy";
         if (/(?:^|\.)iqiyi\.com$/.test(host)) return "+WebProxy";
         if (/(?:^|\.)youku\.com$/.test(host)) return "+WebProxy";
 
